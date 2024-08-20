@@ -1,0 +1,20 @@
+
+Account # is : 65001
+User Name is : Azmeer
+Balance is : 500
+
+Account # is : 65001
+User Name is : Azmeer
+Balance is : 500
+
+Account # is : 65002
+User Name is : Anas
+Balance is : 600
+
+100 is DEBITED
+Balance After Withdraw: 500
+400 is CREDITED
+Balance After Deposit: 900
+Account # is : 65002
+User Name is : Anas
+Balance is : 900
